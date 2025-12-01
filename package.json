@@ -10,13 +10,16 @@
 		"type": "git",
 		"url": "https://github.com/waldsonvital/sigep-node"
 	},
-	"keywords": ["sigep", "correios", "etiquetas"],
+	"keywords": [
+		"sigep",
+		"correios",
+		"etiquetas"
+	],
 	"author": "Waldson Vital Dos Santos",
 	"license": "ISC",
 	"dependencies": {
 		"bwip-js": "^3.3.0",
 		"ejs": "^3.1.9",
-		"libxmljs": "0.19.8",
 		"puppeteer": "^19.7.5",
 		"soap": "^1.0.0",
 		"xml-js": "^1.6.11"
